@@ -22,3 +22,5 @@ volatility patterns, and relationships between price variables.
 - Gold prices show a long-term upward trend over the years
 - Strong correlation exists between Open, High, Low, and Close prices
 - Volatility increases during uncertain economic periods
+- Updated Readme
+- 
